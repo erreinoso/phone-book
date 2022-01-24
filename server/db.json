@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Elena",
+      "surname": "Ramirez",
+      "email": "err@gmail.com",
+      "phone": "6673306233",
+      "id": 1
+    },
+    {
+      "name": "Perico",
+      "surname": "Palotes",
+      "email": "ppalotes@gmail.com",
+      "phone": 689524863,
+      "id": 2
+    },
+    {
+      "name": "Joaquin",
+      "surname": "Paez",
+      "email": "paez@gmail.com",
+      "phone": 697521468,
+      "id": 3
+    },
+    {
+      "name": "Elvira",
+      "surname": "Font",
+      "email": "elvira@hotmail.com",
+      "phone": 635789512,
+      "id": 4
+    },
+    {
+      "name": "Ana Belen",
+      "surname": "Figueras",
+      "email": "abf@msn.es",
+      "phone": 958542136,
+      "id": 5
+    },
+    {
+      "name": "Maximiliano",
+      "surname": "Diallo",
+      "email": "d78@gmail.it",
+      "phone": 786512356,
+      "id": 6
+    }
+  ]
+}
